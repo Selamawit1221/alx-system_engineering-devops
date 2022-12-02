@@ -1,0 +1,1 @@
+write script that print
