@@ -1,1 +1,1 @@
-write script that print
+0-current_working_direct
